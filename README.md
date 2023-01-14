@@ -8,3 +8,7 @@ The user can:
 2. Search photos using natural language via voice and text.
 3. See relevant results (ex. If we search for a cat,we should be able to see photos with cats in them) based on what you searched.
 4. Upload new photos (with or without custom labels) and see them appear in the search results.
+
+## Architecture
+
+<img width="695" alt="image" src="https://user-images.githubusercontent.com/58876667/212477522-de778755-078f-44a8-abef-02322fd869e5.png">
