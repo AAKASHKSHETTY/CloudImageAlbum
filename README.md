@@ -11,4 +11,4 @@ The user can:
 
 ## Architecture
 
-<img width="695" alt="image" src="https://user-images.githubusercontent.com/58876667/212477522-de778755-078f-44a8-abef-02322fd869e5.png">
+<img width="955" alt="image" src="https://user-images.githubusercontent.com/58876667/212477854-c5250191-68cf-449d-a999-e49b27924a99.png">
